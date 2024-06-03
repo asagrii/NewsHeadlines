@@ -1,0 +1,21 @@
+
+
+
+
+/*/* src/NewsHeadlines.css */
+.error-message {
+  color: red;
+  font-weight: bold;
+  text-align: center;
+  margin-top: 20px;
+}
+
+.card img {
+  height: 200px;
+  object-fit: cover;
+}
+
+.news-link {
+  text-decoration: none;
+  color: inherit;
+}
